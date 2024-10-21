@@ -5,7 +5,7 @@ lua54 'yes'
 author "adnanberandai"
 
 shared_scripts {
-    '@rl_libs/init.lua',
+    '@jo_libs/init.lua',
     '@ox_lib/init.lua',
     'config.lua',
 }
