@@ -1,0 +1,10 @@
+{
+    "NotifyTitle" : "Bounty",
+    "TargetLabel" : "Start Bounty",
+    "KillingMessage" : "Kill the targets",
+    "ObjectivesKilledMessage" : "You managed to kill all the targets",
+    "DeadMessage" : "You have died",
+    "AlreadyMission" : "Mission already in progress",
+    "KillAllTarget" : "Kill All The Targets",
+    "SuccessKillAll" : "Success! All targets eliminated."
+}
